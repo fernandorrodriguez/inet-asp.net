@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="vistaWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            font-size: large;
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Gestion de Biblioteca Virtual</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Autores<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="AltaAutor.aspx">Ingresar Nuevo</a></li>
+                             <li><a href="#">Modificar</a></li>
+                             <li><a href="#">Borrar</a></li>
+                             <li><a href="ConsultaAutores.aspx">Consulta General</a></li>
+                             <li><a href="AutoresPorPais.aspx">Autores por pais</a></li>
+                        </ul>
+                        <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Paises<b class="caret"></b></a>
+                         <ul class="dropdown-menu"> <!-- menu desplegable -->
+                             <li><a href="altaPais.aspx">Nuevo</a></li>
+                             <li><a href="ConsultaPaises.aspx">Consulta</a></li>
+                        </ul>
+                        </li>
+                       <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Editorial<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="altaEditorial.aspx">Agregar editorial</a></li>
+                         </ul>
+                       </li>
+                       <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Estado<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="Outputcache.aspx">OutputCache</a></li>
+                             <li><a href="Cookies.aspx">Cookies</a></li>
+                             <li><a href="Origen.aspx">QueryString</a></li>
+                             <li><a href="CacheSinTiempo.aspx">Cache sin tiempo</a></li>
+                             <li><a href="CacheTiempoABS.aspx">Cache tiempo absoluto</a></li>
+                             <li><a href="CacheTiempoRelativo.aspx">Cache tiempo relativo</a></li>
+                             <li><a href="CacheDependencia.aspx">Cache con dependencia</a></li>
+                         </ul>
+                        </li>
+                        <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Libros/Ajax<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="#">Ingresar Nuevo</a></li>
+                             <li><a href="#">Consulta</a></li>
+                             <li><a href="#">Ver Novedades</a></li>
+                             <li class="divider"></li>
+                             <li><a href="#">Consultar Novelas</a></li>
+                             <li><a href="Ajax.aspx">AJAX ejemplo</a></li>
+                             <li><a href="Accordion.aspx">AJAX accordion ejemplo</a></li>
+                             <li><a href="BuscarAutores.aspx">AJAX autocomplete ejemplo</a></li>
+                        </ul>
+                         </li>
+                         </li>
+                        <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Servicios Web<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="Operaciones.aspx">Operaciones</a></li>
+                             <li><a href="AutoresJson.aspx">Autores por Json</a></li>
+
+                        </ul>
+                         </li>
+                            <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Usuario<b class="caret"></b></a>
+                         <ul class="dropdown-menu">
+                             <li><a href="Session.aspx">Iniciar Sesion</a></li>
+                             <li><a href="Cierre.aspx">Cerrar Sesion</a></li>
+                         </ul>
+       			</li>
+
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - Usuario Activo:<asp:Label ID="lblUsuario" runat="server" Text="Anonimo"></asp:Label> </p>
+                <p>Usuarios Conectados :<strong>
+                    <asp:Label ID="lblConectados" runat="server" Text="" CssClass="auto-style1">
+                    </asp:Label></strong></p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

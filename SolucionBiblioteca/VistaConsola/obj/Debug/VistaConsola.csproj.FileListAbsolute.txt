@@ -1,0 +1,14 @@
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\VistaConsola.exe.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\VistaConsola.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\VistaConsola.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Entidades.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Logica.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Datos.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Entidades.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Logica.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\bin\Debug\Datos.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\obj\Debug\VistaConsola.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\VistaConsola\obj\Debug\VistaConsola.pdb

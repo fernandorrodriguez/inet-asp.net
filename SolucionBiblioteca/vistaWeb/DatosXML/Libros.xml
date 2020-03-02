@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ISBN>978-84-555-1515-9</ISBN>
+    <Titulo>Relato de un náufrago</Titulo>
+    <Genero>Cuentos</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1974</Año>
+  </Table>
+  <Table>
+    <ISBN>978-84-322-1514-8</ISBN>
+    <Titulo>El Tunel a</Titulo>
+    <Genero>Ciencia Ficcion</Genero>
+    <Editorial>Sudamericana</Editorial>
+    <Año>1948</Año>
+  </Table>
+  <Table>
+    <ISBN>978-84-96581-31-9</ISBN>
+    <Titulo>Los mensajes de los sabios</Titulo>
+    <Genero>Testimonial</Genero>
+    <Editorial>Ediciones B</Editorial>
+    <Año>2009</Año>
+  </Table>
+  <Table>
+    <ISBN> 978-84-20449-31-9</ISBN>
+    <Titulo>La novela de Peron</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Alfaguara</Editorial>
+    <Año>2003</Año>
+  </Table>
+  <Table>
+    <ISBN>2-07-029666-0</ISBN>
+    <Titulo>El Aleph</Titulo>
+    <Genero>Cuentos</Genero>
+    <Editorial>Losada</Editorial>
+    <Año>1949</Año>
+  </Table>
+  <Table>
+    <ISBN>978-950-49-2045-8</ISBN>
+    <Titulo>Los Mitos de la Historia Argentina I</Titulo>
+    <Genero>Historia</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>2010</Año>
+  </Table>
+  <Table>
+    <ISBN>978-950-731-398-dasdsadasdsadsasdg fsijagbbsadv safj  dfasn ifsdk  n nga dn vzb c
+    <Titulo>Sobre heroes y Tumbas</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1961</Año>
+  </Table>
+  <Table>
+    <ISBN>978-950-731-358-9</ISBN>
+    <Titulo>Casi Una Historia</Titulo>
+    <Genero>Historia</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1994</Año>
+  </Table>
+  <Table>
+    <ISBN>84-376-0494-X</ISBN>
+    <Titulo>100 años de Soledad</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Sudamericana</Editorial>
+    <Año>1967</Año>
+  </Table>
+  <Table>
+    <ISBN>84-415-1484-4</ISBN>
+    <Titulo>La Biblia de C#</Titulo>
+    <Genero>Educacion</Genero>
+    <Editorial>Anaya</Editorial>
+    <Año>2008</Año>
+  </Table>
+
+  <Table>
+    <ISBN>978-0-470-50221-1</ISBN>
+    <Titulo>Beginning ASP.NET 4: in C# and VB</Titulo>
+    <Genero>Educacion</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1304</Año>
+  </Table>
+  <Table>
+    <ISBN>978-0-152-16415-7</ISBN>
+    <Titulo>El principito</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Emece</Editorial>
+    <Año>1943</Año>
+  </Table>
+  <Table>
+    <ISBN>978-0-852-16415-2</ISBN>
+    <Titulo>Esperándolo a Pepito</Titulo>
+    <Genero>Cuentos</Genero>
+    <Editorial>Galerna</Editorial>
+    <Año>2000</Año>
+  </Table>
+ <Table>
+    <ISBN>978-0452284234</ISBN>
+    <Titulo>1984</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1949</Año>
+  </Table>
+<Table>
+    <ISBN>978-045228111</ISBN>
+    <Titulo>Viaje al Centro de la Tierra</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Planeta</Editorial>
+    <Año>1864</Año>
+  </Table>
+<Table>
+    <ISBN>978-045228423-54</ISBN>
+    <Titulo>Los Miserables</Titulo>
+    <Genero>Novela</Genero>
+    <Editorial>Lacroix</Editorial>
+    <Año>1862</Año>
+  </Table>
+</NewDataSet>

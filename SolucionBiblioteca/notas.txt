@@ -1,0 +1,19 @@
+web services (xml)
+	-->se alojan en un server
+	-->.asmx
+	-->tiene su codigo de c# (asmx.cs)
+	-->no tiene interfaz grafica
+	-->tiene metodos
+		-->metodos web
+	-->los servicios se consumen por http
+	-->el resultado de la consumicion es el xml o json
+	-->el xml se puede consultar desde la url(via http) o una app web
+	-->si se consulta por la app, interviene el protocolo soap(simple object acces protocol)
+	-->el protocolo soap permite la comunicacion entre el servidor donde esta el servicio y la app
+	-->deserializacion(convertir el xml o json en algo que se pueda mostrar al usuario final)
+	-->serializacion es el proceso opuesto (convertir los booleanos que puedan devolver los metodos en un standar xml o json)
+	-->los metodos no los ve el que los consume, el manejo es interno
+	-->es necesario hacer referencia web al servicio
+	-->el servicio web solo recibe y envia xml o json, deserializa o serializa si necesita enviar o recibir datos
+	-->las apps para enviar datos a los servicios web, serializan los datos
+	

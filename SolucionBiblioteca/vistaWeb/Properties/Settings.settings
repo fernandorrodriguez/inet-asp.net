@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="vistaWeb.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="vistaWeb_Aritmetica_Matematica" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1727/Matematica.asmx</Value>
+    </Setting>
+    <Setting Name="vistaWeb_BibliotecaServicio_Biblioteca" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1727/Biblioteca.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

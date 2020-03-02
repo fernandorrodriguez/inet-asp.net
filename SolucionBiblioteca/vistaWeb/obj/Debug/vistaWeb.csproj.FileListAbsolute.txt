@@ -1,0 +1,397 @@
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.rsp
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.rsp
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.AppContext.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Console.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Compression.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Claims.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.ValueTuple.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.rsp
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\WebGrease.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.xml
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.xml
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csprojAssemblyReference.cache
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CoreCompileInputs.cache
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CopyComplete
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.dll
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.pdb
+E:\inetfer2\cursoInet\.NET\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll.config
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe.config
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.rsp
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe.config
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.rsp
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.AppContext.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Console.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Compression.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Claims.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.ValueTuple.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe.config
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.rsp
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\WebGrease.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.xml
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.xml
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.pdb
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csprojAssemblyReference.cache
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CoreCompileInputs.cache
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CopyComplete
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase13 (continuacion del 12)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll.config
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe.config
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.rsp
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe.config
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.rsp
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.AppContext.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Console.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Compression.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Claims.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.ValueTuple.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe.config
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.rsp
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\WebGrease.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Entidades.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Logica.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.xml
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.xml
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\Datos.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csprojAssemblyReference.cache
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CoreCompileInputs.cache
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CopyComplete
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase14(continuacion del 13)\clase11\SolucionBiblioteca\vistaWeb\bin\AjaxControlToolkit.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll.config
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\vistaWeb.pdb
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe.config
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.rsp
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe.config
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.rsp
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.AppContext.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Console.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Compression.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Claims.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.ValueTuple.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe.config
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.rsp
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\AjaxControlToolkit.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Entidades.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Logica.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\WebGrease.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Datos.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Entidades.pdb
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Logica.pdb
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.xml
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.xml
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.pdb
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\Datos.pdb
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csprojAssemblyReference.cache
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CoreCompileInputs.cache
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CopyComplete
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.dll
+E:\inetfer2\cursoInet\.NET\clase16\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll.config
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\vistaWeb.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.exe.config
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csc.rsp
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.exe.config
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\csi.rsp
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.AppContext.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Console.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Compression.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Claims.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.ValueTuple.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.exe.config
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\vbc.rsp
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\AjaxControlToolkit.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Entidades.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Logica.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\WebGrease.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Datos.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Entidades.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Logica.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\System.Web.Optimization.xml
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Newtonsoft.Json.xml
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Antlr3.Runtime.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\Datos.pdb
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csprojAssemblyReference.cache
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.csproj.CopyComplete
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.dll
+E:\Programacion\cursoInet\cursoInet\ASP_.NET\clase16_empiezaDesdeLa11\SolucionBiblioteca\vistaWeb\obj\Debug\vistaWeb.pdb
